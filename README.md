@@ -20,11 +20,13 @@ Como Usar
 3. Painel de Funcionário (PDV)
 
 4. Painel do Dono (Dashboard Mobile)
-Personalizações
-Favicon
-Logo
-Roadmap Futuro
-Licença
+Evolução das vendas,
+Lucro,
+Vendas diarias,
+Alerta de estoque,
+Extrato,
+Importar NF
+
 
 🛠️ Tecnologias Utilizadas
 Backend
